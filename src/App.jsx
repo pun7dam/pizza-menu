@@ -1,5 +1,5 @@
 import './App.css';
-import Header from './components/header.jsx';
+import Header from './components/Header.jsx';
 import MenuPage from './components/MenuPage.jsx';
 import Footer from './components/Footer.jsx';
 
